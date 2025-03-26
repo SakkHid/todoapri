@@ -21,5 +21,8 @@
     "mysql": "^2.18.1",
     "passport": "^0.5.3",
     "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
   }
 }
